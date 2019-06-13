@@ -43,6 +43,14 @@ VM Creation
 12. Click `Next`
 13. Click on the little folder icon and then navigate to the `Ubuntu 19.04 ISO` file we downloaded earlier
 14. Click `Start`
+15. After successful install need to remove installation media. Click on `Devices` menu and go to the little disk dvd menu and select the `iso` file from the list and remove it
+16. For good measure once in restart 
+17. Once restarted run the following commands:
+```bash
+sudo apt-get update && apt-get upgrade
+```
+(Note: it will prompt you with a password to use sudo. Just enter the password you setup and press enter. Also note: When you type a password it will not show up so you won't see that you are typing but you are)
+18. Enjoy!
 
 
 
