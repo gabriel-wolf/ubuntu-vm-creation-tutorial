@@ -32,7 +32,7 @@ VM Creation
 2. Click `Next`
 3. Enter a name for your VM (e.g. `Ubuntu`) and set the Operating System to `Linux` and version to `Ubuntu` (64-bit)
 4. If CPU virtualization technology (VT-x AMD/V) is not already setup in your BIOS then do it now. (See link below)
-
+https://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox
 5. Enter RAM for VM (probably set to 3-4 GB = `3000-4000 MB`) 
 6. Keep default options and click `Next`
 7. Click `Next` again
