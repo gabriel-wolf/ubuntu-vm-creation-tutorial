@@ -52,5 +52,17 @@ sudo apt-get update && apt-get upgrade
 (Note: it will prompt you with a password to use sudo. Just enter the password you setup and press enter. Also note: When you type a password it will not show up so you won't see that you are typing but you are)
 18. Enjoy!
 
+19. Constantly create VM snapshots (if you don't know what that is then google it)
+
+
+### Useful things to have
+* net-tools (for ifconfig)
+* some ide/editor
+* git
+* ssh
+* pibakery
+* python (should be preinstalled)
+* pip
+
 
 
